@@ -1,0 +1,1 @@
+Semantic standard page CSS.
